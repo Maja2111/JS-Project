@@ -34,7 +34,11 @@ _Sprache wird außer Acht gelassen, da der allergrößte Teil deutschsprachig is
 
 #### 1.3. Nice to have
 
-ein Buch grafisch darstellt.
+ein Buch grafisch darstellt. (✔)
+mit 
+https://www.asciiart.eu/image-to-ascii grafisch umgesetzt und innerhalb eines consol.log() wiedergeben 
+![Bildschirmfoto vom 2024-07-11 12-09-05](https://github.com/Maja2111/JS-Project/assets/150914026/11eda0b2-f03e-49e0-ad6f-8ada05204044)
+
 
 ## Umsetzung
 
@@ -46,8 +50,8 @@ In folgender Reihenfolge soll die Bibliothek Daten aufrufen können:
 
 - **Titel** -> gibt nur die Titel in alphabetischer Reihenfolge zurück (✔)
 - **Autor:innen** -> gibt nur die Autor:innen in alphabetischer Reihenfolge zurück (✔)
-- **Preise** -> gibt nur die Preise in nummerischer Reihenfolge zurück (vom kleinsten zu Größten)
-- **Erscheinungsjahr** -> gibt nur das Erscheinungsjahr in nummerischer Reihenfolge zurück (vom Neusten zum Ältesten)
+- **Preise** -> gibt nur die Preise in nummerischer Reihenfolge zurück (vom kleinsten zu Größten) (✔)
+- **Erscheinungsjahr** -> gibt nur das Erscheinungsjahr in nummerischer Reihenfolge zurück (vom Neusten zum Ältesten) (✔)
 
 #### 2.2. Suchfunktion für
 
